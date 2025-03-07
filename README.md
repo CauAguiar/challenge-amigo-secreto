@@ -7,6 +7,8 @@ Um sorteio de amigo secreto com validações e garantia de que ninguém sorteie 
 
 https://cauaguiar.github.io/challenge-amigo-secreto/
 
+![Badge](ff043987-239b-4661-bdb1-7f4ca6092c48.png)
+
 ## 🎯 Contexto do Desafio
 Projeto desenvolvido para o **Programa Oracle ONE**, em parceria com a Alura, com o objetivo de praticar:
 - Lógica de programação
